@@ -1,0 +1,47 @@
+
+*{
+   
+    margin:none;
+    padding: none;
+    text-decoration: none;
+}
+
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+    word-spacing: 3px;
+    width: 1200px;
+    margin: auto;
+    
+
+}
+
+h1{
+    font-size: 32px;
+    margin-top: 80px;
+}
+
+h2{
+    margin-top: 32px;
+    margin-bottom: 16px;
+}
+
+p,ol{
+    font-size: 18px;
+    line-height: 27px;
+    margin-top:18px;
+    margin-bottom: 18px;
+}
+
+a{
+    color: #5551FF;
+}
+
+ol{
+    margin-left: 20px;
+}
+
+img.mudar{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
