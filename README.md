@@ -1,2 +1,2 @@
 # Html-Css
- Exercícios de HTML e CSS
+ Web Design exercises done in college!
