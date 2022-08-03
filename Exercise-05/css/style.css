@@ -1,0 +1,147 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sarala:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+*{
+    margin: none;
+    padding:none;
+    box-sizing: border-box;
+}
+
+body{
+    color: rgb(37, 36, 36);
+    font-family: 'Roboto', sans-serif;
+}
+
+header
+{
+    color:#EEF3D2;
+    background: linear-gradient(to right, #6A5495, #CE7BB0) ;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content:space-around;
+    
+}
+
+h1{
+
+    font-family: 'Press Start 2P', cursive;
+    font-size: 50px;
+    text-align: center;
+}
+
+nav a
+{
+    text-decoration: none;
+    color:#EEF3D2;
+    font-size: 18px;
+    margin-left: 30px;
+    font-family: 'Sarala', sans-serif;
+    font-weight: 4px;
+   
+  
+}
+
+nav a:hover
+{
+    text-decoration: none;
+    margin-left: 20px;
+    color:white;
+}
+
+
+main
+{
+    margin: auto;
+    width:800px;
+    text-align: justify;
+}
+
+main h2{
+   
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: #4B3869;
+    font-family: 'Archivo Black', sans-serif;
+    font-weight: 30px;
+    font-size: 28px;
+    
+}
+main p
+{
+    margin-bottom: 50px;
+}
+
+p{
+    font-size: 18px;
+    
+
+}
+.titulo
+{
+    font-size: 40px;
+    text-align:center;
+    margin:50px 0 50px 0;
+    
+}
+
+.silvana
+{
+    width: 300px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 50px;
+}
+.arte
+{
+    width: 410px;
+    float: right;
+    margin-left: 20px;
+    margin-top: 10px;
+    margin-bottom: 8px;
+}
+
+.tech
+{
+    width: 800px;
+    margin-bottom: 8px;
+}
+
+.frase p
+{
+    margin: 80px 0 80px 0;
+    font-size: 25px;
+    color:#4B3869;
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+footer{
+    color:#EEF3D2;
+    background: linear-gradient(to right, #6A5495, #CE7BB0);
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content:space-around;
+}
+footer h1
+{
+    font-family: 'Press Start 2P', cursive;
+    font-size: 50px;
+    text-align: center;
+    margin-left: 50px;
+}
+footer p
+{
+    font-size: 15px;
+    font-family: 'Sarala', sans-serif ;
+}
+
+
