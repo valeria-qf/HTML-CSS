@@ -2,8 +2,8 @@
     color:#343434
 }
 *{
-    margin: none;
-    text-decoration: none;
+    margin: 0;
+    text-decoration: 0;
     padding: none;
     box-sizing: border-box;
 }
